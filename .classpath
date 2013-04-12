@@ -17,5 +17,33 @@
 	<classpathentry kind="lib" path="lib/colt.jar"/>
 	<classpathentry kind="lib" path="lib/blueprints-core-2.3.0.jar"/>
 	<classpathentry kind="lib" path="lib/blueprints-orient-graph-2.3.0-20130320.023159-29.jar"/>
+	<classpathentry kind="lib" path="lib/titan-cassandra-0.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/titan-core-0.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/titan-es-0.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/astyanax-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/high-scale-lib-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-all-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-thrift-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-datatype-json-org-2.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-jaxrs-1.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-xc-1.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/kryo-2.21.jar"/>
+	<classpathentry kind="lib" path="lib/hppc-0.4.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
